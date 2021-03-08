@@ -6,7 +6,7 @@
   * email : [Kishkurno.yury@yandex.by](Kishkurno.yury@yandex.by)
   * [LinkedIn](https://www.linkedin.com/in/%D1%8E%D1%80%D0%B8%D0%B9-%D0%BA%D0%B8%D1%88%D0%BA%D1%83%D1%80%D0%BD%D0%BE-3514a4183/)
   * [GitHub](https://github.com/YuryZeroCool)
- ### 3. I work as a maintenance engineer. I am fond of programming for five years I want to try myself in programming
+ ### 3. I work as a maintenance engineer. I am fond of programming for five years I want to try myself in programming.
  ### 4. I have language programming skills in C#, C++, JS, Entity Framework core, SQL, React, Angular, CSS, Gulp, GitHub,Azure DveOps. 
  ### 5.
 
